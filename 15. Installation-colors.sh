@@ -5,5 +5,5 @@ G="\e[32m" #Green
 Y="\e[33m" #Yellow
 N="\e[0m" #white/Normal color we can use 37 as well in place of 0
 
-echo -e "$G Hello World"
+echo -e "$G Hello World $N"
 echo "check this color"

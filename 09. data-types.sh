@@ -9,7 +9,7 @@ SUM=$(($NUMBER1+$NUMBER2))
 
 echo "SUM is: ${SUM}"
 
-LEADERS=("Surya" "Williamson" "Cummins")
+LEADERS=("Surya" "Williamson" "Cummins" "Raina")
 
 #shows us all the values in the above instance and we should use "@"
 echo "All leaders: ${LEADERS[@]}"

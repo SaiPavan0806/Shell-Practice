@@ -7,3 +7,5 @@ echo "Current directory: $PWD"
 echo "Who is running the scripr: $USER"
 echo "home directory of the user: $HOME"
 echo "show the process instance ID: $$"
+sleep 50 &
+echo "PID of the last command in background is: $!"
